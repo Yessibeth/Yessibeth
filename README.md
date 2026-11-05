@@ -5,14 +5,15 @@
 <h1 align="center">¡Hola! Soy Yessibeth 👋</h1>
 
 <h3 align="center">
-  Licenciada en Informática para la Gestión Educativa y Empresarial
+  Estudiante de la Licenciatura en Informática para la Gestión Educativa y Empresarial<br>
+  Universidad de Panamá 🎓
 </h3>
 
 ---
 
 ## 👩‍💻 Sobre mí
 
-¡Hola! Soy Yessibeth López, estudiante de Informática, Electrónica y Comunicación en la Universidad de Panamá. 🎓
+¡Hola! Soy Yessibeth López, estudiante de la Licenciatura en Informática para la Gestión Educativa y Empresarial en la Facultad de Informática, Electrónica y Comunicación de la Universidad de Panamá. 🎓
 
 Me apasiona la tecnología y todo lo relacionado con el aprendizaje y la innovación. Siempre estoy dispuesta a participar en cursos, capacitaciones y experiencias que me permitan ampliar mis conocimientos, especialmente en áreas como la informática, el desarrollo de software y la ciberseguridad.
 
@@ -47,11 +48,24 @@ Más allá de la tecnología, disfruto compartir con mis amigos, viajar, conocer
 
 ---
 
+<!--
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [🦊 Nombre del proyecto](https://github.com/Yessibeth/nombre-del-repositorio) | Qué hace y para qué sirve | Python, HTML |
+
+---
+-->
+
 ## 📫 Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yessibethlopez-pa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yessi_elr/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
