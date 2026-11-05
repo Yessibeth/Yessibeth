@@ -21,3 +21,38 @@ Me gusta explorar nuevas herramientas, descubrir diferentes áreas del mundo tec
 Más allá de la tecnología, disfruto compartir con mis amigos, viajar, conocer nuevos lugares y vivir nuevas experiencias. Creo que mantener un equilibrio entre el crecimiento profesional y la vida personal es fundamental.
 
 ✨ Siempre abierta a aprender, colaborar, conocer nuevas personas y participar en proyectos que representen nuevos desafíos y oportunidades de crecimiento.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 🔐 Áreas de interés
+
+- 💻 Desarrollo de software
+- 🛡️ Ciberseguridad
+- 🔌 Electrónica y comunicación
+- 🎓 Tecnología aplicada a la educación y a la gestión empresarial
+
+---
+
+## 📫 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yessibethlopez-pa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">✨ <i>Siempre abierta a aprender, colaborar y crecer</i> ✨</p>
